@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,git,jira" height="60" alt="core stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,git,jira,flask" height="60" alt="core stack"/>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="60" alt="databases"/>
 
 </div>
 
@@ -37,6 +37,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/>
+
+<!-- LangChain -->
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="60"/>
 
 </div>
 
