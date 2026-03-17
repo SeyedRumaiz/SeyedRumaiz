@@ -1,7 +1,7 @@
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Mohamed Razik Seyed Rumaiz
-### *AI & Data Science Undergraduate • ML Researcher*
+### *AI & Data Science Undergraduate*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Scrum+Master+%7C+Agile+Project+Management;Building+Predictive+Business+and+Healthcare+Solutions;From+Data+Theory+to+Deployable+Impact" alt="Typing SVG" />
 
