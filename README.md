@@ -40,6 +40,7 @@
 
 <!-- LangChain -->
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
 
 </div>
 
