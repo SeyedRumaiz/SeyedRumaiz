@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,git,flask" height="60" alt="core stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,docker,linux,git,github,flask,fastapi" height="60" alt="core stack"/>
 
 </div>
 
@@ -37,6 +37,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/>
+
+<!-- Scikit Learn -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60"/>
+
+<!-- Jupyter -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
+
+<!-- MLflow -->
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
 <!-- LangChain -->
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="60"/>
