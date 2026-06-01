@@ -17,8 +17,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,docker,linux,git,github,flask,fastapi" height="60" alt="core stack"/>
-
+<!-- <img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,docker,linux,git,github,flask,fastapi" height="60" alt="core stack"/> -->
+<img src="https://skillicons.dev/icons?i=python,java,r,html,css,js,aws,linux,git,github,flask" height="60" alt="core stack"/>
 </div>
 
 <br/>
