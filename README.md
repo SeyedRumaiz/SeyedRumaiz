@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="60" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" height="60" alt="databases"/>
 
 </div>
 
