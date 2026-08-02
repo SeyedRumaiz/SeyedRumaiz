@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Razik Seyed Rumaiz 👋
 
-### 🤖 AI & Data Science Student @ IIT
+### 🎓 AI & Data Science Undergraduate @ IIT
 ### 💼 Software Engineering Intern (Customer Success) @ WSO2
 
 • 📸 Photography • 🍳 Cooking • 🌐 Language Learning • 🎓 STEM Tutor • 📚 Continuous Learning
