@@ -5,7 +5,7 @@
 ### 🤖 AI & Data Science Student @ IIT
 ### 💼 Software Engineering Intern (Customer Success) @ WSO2
 
-📸 Photography • 🍳 Cooking • 🌐 Language Learning • 🎓 STEM Tutor • 📚 Continuous Learning
+• 📸 Photography • 🍳 Cooking • 🌐 Language Learning • 🎓 STEM Tutor • 📚 Continuous Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;AI+Engineering+%7C+Software+Engineering;Building+Predictive+Business+and+Healthcare+Solutions;From+Data+Theory+to+Deployable+Impact" alt="Typing SVG" />
 
