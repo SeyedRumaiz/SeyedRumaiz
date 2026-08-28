@@ -39,7 +39,7 @@
 
 ### 🗄️ Databases & Caching
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis" height="60" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis,supabase" height="60" alt="Databases"/>
 
 <br/><br/>
 
