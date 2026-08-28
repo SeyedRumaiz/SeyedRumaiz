@@ -61,22 +61,6 @@
 
 <div align="center">
 
-## 📊 GitHub Activity
-
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeyedRumaiz&show_icons=true&theme=radical&hide_border=true" height="165"/> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeyedRumaiz&layout=compact&theme=radical&hide_border=true" height="165"/> |
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SeyedRumaiz&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 Contribution Activity
 
 <picture>
