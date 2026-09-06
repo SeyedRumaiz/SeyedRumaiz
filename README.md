@@ -32,7 +32,7 @@
 
 ### ☁️ Cloud, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,flask,fastapi,postman" height="60" alt="Cloud, DevOps and development tools"/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github,flask,fastapi,postman" height="60" alt="Cloud, DevOps and development tools"/>
 
 <br/><br/>
 
