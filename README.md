@@ -26,7 +26,7 @@
 
 ### 💻 Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,java,go,typescript,r,html,css,js,react" height="60" alt="Programming languages and web technologies"/>
+<img src="https://skillicons.dev/icons?i=python,java,go,typescript,r,html,css,js,react,nextjs,express" height="60" alt="Programming languages and web technologies"/>
 
 <br/><br/>
 
